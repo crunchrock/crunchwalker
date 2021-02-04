@@ -1,4 +1,4 @@
-# Tilt Brush README
+# CHANGES COMING SOON! I CANT EVEN AFFORD A VR RIG YET :)
 
 Tilt Brush is licensed under Apache 2.0. It is not an officially supported
 Google product. See the [LICENSE](LICENSE) file for more details.
